@@ -1,5 +1,5 @@
 (function($, Edge, compId){
-var im='https://raw.githubusercontent.com/DeathBarmaglot/crystal/main/images/';
+var im='https://raw.githubusercontent.com/DeathBarmaglot/thermo/main/images/';
 
 var fonts = {};
 var opts = {
