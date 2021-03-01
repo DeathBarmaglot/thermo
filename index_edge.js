@@ -263,7 +263,7 @@ var symbols = {
                 ["style", "top", '0px'],
                 ["transform", "scaleY", '1.06522'],
                 ["transform", "scaleX", '1.01935'],
-                ["style", "opacity", '1'],
+                ["style", "opacity", '100'],
                 ["style", "clip", [-3,301,181,-9], {valueTemplate:'rect(@@0@@px @@1@@px @@2@@px @@3@@px)'} ],
                 ["style", "left", '-1px']
             ],
