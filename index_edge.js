@@ -1,9 +1,5 @@
-/**
- * Adobe Edge: symbol definitions
- */
 (function($, Edge, compId){
-//images folder
-var im='images/';
+var im='https://raw.githubusercontent.com/DeathBarmaglot/crystal/main/images/';
 
 var fonts = {};
 var opts = {
